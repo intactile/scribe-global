@@ -1,0 +1,6 @@
+{
+  "name": "scribe-global",
+  "version": "v1.4.13",
+  "main": "scribe.js",
+  "license": "Apache 2"
+}
